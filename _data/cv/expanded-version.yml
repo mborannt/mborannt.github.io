@@ -1,5 +1,4 @@
 - title: 'expanded'
   description: 'Expanded version of my Cv'
-  
-  featured:
-  - {name: 'cv', url: '/data/cv/cvmboran.pdf'}
+featured:
+- {name: 'cv', url: 'https://mborannt.github.io/data/cv/cvmboran.pdf'}
