@@ -1,2 +1,5 @@
 - title: 'expanded'
   description: 'Expanded version of my Cv'
+  
+  index:
+  - {name: 'cv', url: '/data/cv/cvmboran.pdf'}
