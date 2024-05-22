@@ -2,7 +2,7 @@ menu:
 #- {name: 'Photo Gallery', url: '/photos'}
 - {name: 'Publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv/cvmboran.pdf'}
+- {name: 'cv', link: '/cv/cvmboran.pdf'}
 - {name: 'contact', url: '/contact'}
 
 #Photo Gallery:
