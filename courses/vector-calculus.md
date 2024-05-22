@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Vector Calculus"
+title: "Analytical Number Theory"
 ---
 
 #### Course Information
